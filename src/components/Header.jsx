@@ -5,7 +5,7 @@ import Text from '../reasuble/Text';
 const Header = () => {
     return (
         <header>
-            <div className="container px-6 m-auto bg-[#B9E6FF] rounded-[10px] mt-[20px]">
+            <div className="container px-6 m-auto bg-[#B9E6FF] rounded-[10px] mt-[20px] mb-[50px]">
                 <div className="grid grid-cols-12 gap-6">
                     <div className="col-span-7">
                         <div className="left-box px-[40px] flex items-center h-full">
